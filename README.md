@@ -4,9 +4,11 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150px">
 </p>
 <p align="center">
-  <img src="gif3/WhatsAppVideo2025-09-24at10.12.22PM-ezgif.com-repair.gif" 
+  <img src="https://raw.githubusercontent.com/codeninjavik/gif/main/gif3/WhatsAppVideo2025-09-24at10.12.22PM-ezgif.com-repair.gif" 
        alt="Animated GIF" 
        width="100%" />
+</p>
+
 </p>
 
 </p>
