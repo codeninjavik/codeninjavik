@@ -1,12 +1,14 @@
 <h1 align="center">🚀 Welcome to My GitHub Profile 🚀</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co/fH7dJ3V/banner.gif" width="100%" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150px">
 </p>
 
 ---
 
 ## 🌟 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+
 - 🔭 I’m currently working on **Awesome Projects**
 - 🌱 I’m learning **AI, ML, Cloud & DevOps**
 - 💬 Ask me about **Web Dev | Python | Open Source**
@@ -27,31 +29,35 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,php,mysql,mongodb,java,c,cpp,git,linux,androidstudio,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,php,mysql,mongodb,java,c,cpp,git,github,linux,androidstudio,vscode,figma,django,tailwind,bootstrap" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
 ## 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=dracula&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&margin-w=10&margin-h=10&no-frame=true" />
 </p>
 
 ---
 
 ## ⚡ Fun Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me.gif" width="300px">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400px">
 </p>
 
 ---
 
-⭐ From [YOUR NAME](https://github.com/YOUR_USERNAME)
+⭐ From [vikash](https://github.com/vikashkumar11112)
