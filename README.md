@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150px">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codeninjavik/codeninjavik/main/GeneratedFileSeptember242025-9_19PM-ezgif.com-video-to-gif-converter.mp4" width="200px" alt="Animated Avatar" />
+</p>
 
 ---
 
