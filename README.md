@@ -36,16 +36,25 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeninjavik&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeninjavik&theme=tokyonight&hide_border=true" height="180" />
+  <!-- GitHub Profile Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=codeninjavik&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180" />
+  
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeninjavik&theme=radical&hide_border=false" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninjavik&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninjavik&layout=compact&theme=radical&hide_border=false" height="180" />
 </p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=codeninjavik&theme=react-dark&hide_border=false" width="100%" />
+</p>
+
 
 ---
 
