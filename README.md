@@ -9,10 +9,15 @@
 ## 🌟 About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
 
-- 🔭 I’m currently working on **Awesome Projects**
-- 🌱 I’m learning **AI, ML, Cloud & DevOps**
-- 💬 Ask me about **Web Dev | Python | Open Source**
-- ⚡ Fun fact: I love **Gaming & Coding late night**
+Hi there! 👋 I'm **Vikash Kumar**, a passionate **Full-Stack Developer** and **AI/ML enthusiast**. I love exploring new technologies and building awesome projects that make an impact.  
+
+- 🔭 **Currently working on:** Exciting Web & AI projects  
+- 🌱 **Learning:** Artificial Intelligence, Machine Learning, Cloud Computing & DevOps  
+- 💬 **Ask me about:** Web Development, Python, Open Source Contributions  
+- ⚡ **Fun fact:** I love late-night coding sessions and gaming marathons 🎮💻  
+
+I’m always open to **collaborations, learning, and sharing knowledge**. Let’s build something amazing together! 🚀
+
 
 ---
 
