@@ -4,19 +4,12 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150px">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codeninjavik/gif/main/gif3/WhatsAppVideo2025-09-24at10.12.22PM-ezgif.com-repair.gif" 
-       alt="Animated GIF" 
+  <img src="https://raw.githubusercontent.com/codeninjavik/gif/main/GeneratedFileSeptember242025-9_19PM-ezgif.com-repair.gif" 
+       alt="Animated Avatar" 
        width="100%" />
 </p>
 
-</p>
 
-</p>
-
-</p>
-
-</p>
->
 
 
 ---
