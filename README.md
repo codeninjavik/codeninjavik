@@ -60,8 +60,19 @@
 
 ## 🏆 Achievements & Badges
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeninjavik&theme=onestar&margin-w=15&margin-h=15" />
+   <!-- Classic Trophies -->
+   <img src="https://github-profile-trophy.vercel.app/?username=codeninjavik&theme=onestar&margin-w=15&margin-h=15" />
+   
+   <!-- Futuristic/Dark Theme Trophies -->
+   <img src="https://github-profile-trophy.vercel.app/?username=codeninjavik&theme=darkmode&margin-w=15&margin-h=15" />
+   
+   <!-- Flat/Modern Style -->
+   <img src="https://github-profile-trophy.vercel.app/?username=codeninjavik&theme=flat&margin-w=15&margin-h=15" />
+   
+   <!-- Animated Achievement Example -->
+   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="150px" />
 </p>
+
 
 ---
 
