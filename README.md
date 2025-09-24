@@ -68,7 +68,23 @@
 ## ⚡ Fun Animation
 <p align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="400px">
+  
 </p>
+## ⚡ Fun Animations
+<p align="center">
+   <!-- Neon Coding Animation -->
+   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300px" />
+   
+   <!-- Hacker/Matrix Animation -->
+   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="300px" />
+   
+   <!-- Gaming/Coding Late Night Vibe -->
+   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300px" />
+   
+   <!-- Rocket/Launch Animation -->
+   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300px" />
+</p>
+
 
 ---
 
