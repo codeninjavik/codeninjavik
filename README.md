@@ -90,7 +90,7 @@ open_to:      Collaborations · Open Source · Knowledge sharing
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=codeninjavik&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img width="100%" src="https://ghchart.rshah.org/2dd4bf/codeninjavik" alt="Contribution graph" />
 </p>
 
 <!-- Snake animation: uncomment after adding snake workflow (see SETUP.md)
@@ -104,7 +104,7 @@ open_to:      Collaborations · Open Source · Knowledge sharing
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codeninjavik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=codeninjavik" alt="Trophies" width="100%" />
 </p>
 
 ---
