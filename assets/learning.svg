@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="Currently learning: Artificial Intelligence, Machine Learning, Cloud Computing, DevOps">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+  </defs>
+  <style>
+    text{font:700 16px 'Segoe UI',Arial,sans-serif;fill:#f4f4fb}
+    .p{animation:pulse 3s ease-in-out infinite}
+    .p2{animation-delay:.5s}.p3{animation-delay:1s}.p4{animation-delay:1.5s}
+    @keyframes pulse{0%,100%{stroke-opacity:.35}50%{stroke-opacity:1}}
+    .dot{animation:blink 1.4s steps(1) infinite}
+    @keyframes blink{50%{opacity:.2}}
+  </style>
+  <g fill="#0f0f24" stroke="url(#g)" stroke-width="2">
+    <rect class="p" x="4" y="26" width="204" height="68" rx="34"/>
+    <rect class="p p2" x="228" y="26" width="204" height="68" rx="34"/>
+    <rect class="p p3" x="452" y="26" width="204" height="68" rx="34"/>
+    <rect class="p p4" x="676" y="26" width="220" height="68" rx="34"/>
+  </g>
+  <g stroke="none" fill="#2dd4bf">
+    <circle class="dot" cx="38" cy="60" r="5"/><circle class="dot" cx="262" cy="60" r="5"/><circle class="dot" cx="486" cy="60" r="5"/><circle class="dot" cx="710" cy="60" r="5"/>
+  </g>
+  <text x="56" y="66">AI</text>
+  <text x="280" y="66">Machine Learning</text>
+  <text x="504" y="66">Cloud Computing</text>
+  <text x="728" y="66">DevOps</text>
+</svg>

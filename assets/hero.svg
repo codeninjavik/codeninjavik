@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Vikash Kumar - Full-Stack Developer and AI/ML Enthusiast">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0a18"/><stop offset="1" stop-color="#15102e"/>
+    </linearGradient>
+    <linearGradient id="name" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.25" stop-color="#f472b6"/>
+      <stop offset="0.5" stop-color="#fb923c"/>
+      <stop offset="0.75" stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#ffffff"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-1000 0" to="1000 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <clipPath id="clip"><rect width="1000" height="300" rx="24"/></clipPath>
+  </defs>
+  <style>
+    .name{font:800 96px 'Segoe UI','Helvetica Neue',Arial,sans-serif;letter-spacing:-2px;animation:rise 1.4s cubic-bezier(.2,.8,.2,1) both}
+    .hi{font:500 20px 'Segoe UI',Arial,sans-serif;fill:#a3a3c2;animation:fade 1.4s .2s both}
+    .role{font:600 18px 'Segoe UI',Arial,sans-serif;fill:#2dd4bf;letter-spacing:6px;animation:fade 1.6s .6s both}
+    .o1{transform-origin:830px 150px;animation:spin 24s linear infinite}
+    .o2{transform-origin:830px 150px;animation:spin 40s linear infinite reverse}
+    .b1{animation:drift1 12s ease-in-out infinite alternate}
+    .b2{animation:drift2 14s ease-in-out infinite alternate}
+    .b3{animation:drift1 16s ease-in-out infinite alternate-reverse}
+    @keyframes rise{from{opacity:0;transform:translateY(26px)}to{opacity:1;transform:none}}
+    @keyframes fade{from{opacity:0}to{opacity:1}}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes drift1{to{transform:translate(90px,40px)}}
+    @keyframes drift2{to{transform:translate(-80px,50px)}}
+  </style>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="300" fill="url(#bg)"/>
+    <g filter="url(#blur)" opacity="0.55">
+      <circle class="b1" cx="150" cy="60" r="130" fill="#8b5cf6"/>
+      <circle class="b2" cx="860" cy="120" r="140" fill="#f472b6"/>
+      <circle class="b3" cx="520" cy="300" r="120" fill="#2dd4bf" opacity="0.7"/>
+    </g>
+    <g fill="none" stroke="#ffffff" stroke-opacity="0.18">
+      <g class="o1"><circle cx="830" cy="150" r="110"/><circle cx="830" cy="40" r="7" fill="#2dd4bf" stroke="none" filter="url(#glow)"/></g>
+      <g class="o2"><circle cx="830" cy="150" r="160"/><circle cx="990" cy="150" r="7" fill="#f472b6" stroke="none" filter="url(#glow)"/></g>
+    </g>
+    <text class="hi" x="60" y="105">Hello, world &#8212; main hoon</text>
+    <text class="name" x="56" y="195" fill="url(#name)" filter="url(#glow)">Vikash Kumar</text>
+    <text class="role" x="60" y="248">FULL-STACK DEVELOPER  &#183;  AI / ML ENTHUSIAST</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="299" rx="24" fill="none" stroke="#ffffff" stroke-opacity="0.14"/>
+</svg>
